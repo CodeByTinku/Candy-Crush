@@ -30,7 +30,7 @@ Because this project utilizes purely static frontend development files, no serve
 - **Game Loop:** Utilizes `window.setInterval()` running every 100 milliseconds to repeatedly trigger three core lifecycle functions: `crushCandy()`, `slideCandy()`, and `generateCandy()`.
 
 ## 📸 Screenshots
-
+![your device is very slow!!!](<Screenshot 2026-03-02 095021.png>)
 
 ---
-*A fun project showcasing DOM manipulation and algorithmic logic in Vanilla JS.*
+*Thank you for visiting my project!*
