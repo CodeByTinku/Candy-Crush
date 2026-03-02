@@ -29,6 +29,8 @@ Because this project utilizes purely static frontend development files, no serve
 - **Move Validation:** The game checks if a requested swap is directly adjacent (up, down, left, right). It temporarily performs the swap, checks if it creates a valid match, and reverts it instantly if the move was invalid!
 - **Game Loop:** Utilizes `window.setInterval()` running every 100 milliseconds to repeatedly trigger three core lifecycle functions: `crushCandy()`, `slideCandy()`, and `generateCandy()`.
 
+**[🎮 Play the Live Game Here!](https://candy-crush-weld.vercel.app/)**
+
 ## 📸 Screenshots
 ![your device is very slow!!!](<Screenshot 2026-03-02 095021.png>)
 
